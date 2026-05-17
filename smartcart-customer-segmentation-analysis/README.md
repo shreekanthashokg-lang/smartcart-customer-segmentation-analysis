@@ -15,4 +15,5 @@ Customer segmentation using Python and Machine Learning.
 3. Open `jupyter notebook`
 
 ## Author
-Your Name – [GitHub]  https://github.com/shreekanthashokg-lang
+ Name : Shreekanth A Guttedar
+ GitHub https://github.com/shreekanthashokg-lang
