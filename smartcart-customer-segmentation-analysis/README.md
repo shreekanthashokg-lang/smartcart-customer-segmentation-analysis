@@ -17,3 +17,4 @@ Customer segmentation using Python and Machine Learning.
 ## Author
  Name : Shreekanth A Guttedar
  GitHub https://github.com/shreekanthashokg-lang
+ LinkedIn : https://www.linkedin.com/in/shreekanthashokg/
