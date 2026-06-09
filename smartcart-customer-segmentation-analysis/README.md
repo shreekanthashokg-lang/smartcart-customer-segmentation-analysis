@@ -1,6 +1,6 @@
 # 🛒 SmartCart Customer Segmentation Analysis
 
-## Project OVERVIEW
+## PROJECT OVERVIEW
 
 CUSTOMER SEGMENTATION USING PYTHON AND MACHINE LEARNING.
 
