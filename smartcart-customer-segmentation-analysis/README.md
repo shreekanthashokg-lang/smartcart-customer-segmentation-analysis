@@ -15,6 +15,6 @@ CUSTOMER SEGMENTATION USING PYTHON AND MACHINE Learning.
 3. Open `jupyter notebook`
 
 ## Author
- Name : SHREEKANTH A Guttedar
+ Name : SHREEKANTH A GUTTEDAR
  GitHub https://github.com/shreekanthashokg-lang
  LinkedIn : https://www.linkedin.com/in/shreekanthashokg/
