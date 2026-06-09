@@ -14,7 +14,7 @@ CUSTOMER SEGMENTATION USING PYTHON AND MACHINE LEARNING.
 2. Run `pip install -r requirements.txt`
 3. Open `jupyter notebook`
 
-## AUTHOR
+##  AUTHOR
  NAME : SHREEKANTH A GUTTEDAR
  GitHub https://github.com/shreekanthashokg-lang
  LinkedIn : https://www.linkedin.com/in/shreekanthashokg/
