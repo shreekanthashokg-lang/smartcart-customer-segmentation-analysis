@@ -9,7 +9,7 @@ CUSTOMER Segmentation Using PYTHON  And MACHINE LEARNING.
 - `notebooks/` – Jupyter notebooks with analysis
 - `src/` – Python scripts
 
-## How to Run
+## HOW to Run
 1. Install PYTHON 3.8+
 2. Run `pip install -r requirements.txt`
 3. Open `jupyter notebook`
