@@ -2,7 +2,7 @@
 
 ## PROJECT OVERVIEW
 
-Customer Segmentation using Python  and Machine LEARNING.
+Customer Segmentation using Python  and Machine Learning.
 
 ## FILES
 - `data/raw/` – Original dataset
