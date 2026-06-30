@@ -6,7 +6,7 @@ CUSTOMER SEGMENTATION USING PYTHON  AND MACHINE LEARNING.
 
 ## FILES
 - `data/raw/` – ORIGINAL DATASET
-- `notebooks/` – JUPYTER NOTEBOOKS with analysis
+- `notebooks/` – JUPYTER NOTEBOOKS WITH analysis
 - `src/` – Python scripts
 
 ## HOW TO RUN
