@@ -12,7 +12,7 @@ CUSTOMER SEGMENTATION USING PYTHON  AND MACHINE LEARNING.
 ## HOW TO RUN
 1. Install PYTHON 3.8+
 2. RUN `pip install -r requirements.txt`
-3. Open `jupyter notebook`
+3. OPEN `jupyter notebook`
 
 ##  AUTHOR
  NAME : SHREEKANTH A GUTTEDAR
