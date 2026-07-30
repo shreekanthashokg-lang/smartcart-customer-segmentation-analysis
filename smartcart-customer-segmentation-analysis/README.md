@@ -1,4 +1,4 @@
-# 🛒 SmartCART Customer Segmentation ANALYSIS
+# 🛒 SmartCART CUSTOMER Segmentation ANALYSIS
 
 ## PROJECT OVERVIEW
 
