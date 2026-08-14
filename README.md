@@ -35,7 +35,7 @@ The main objectives of this project are:
 * Jupyter Notebook
 * Git & GitHub
 
-### Data Analysis
+## DATA ANALYSIS
 
 * Pandas
 * NumPy
