@@ -10,7 +10,7 @@ The complete workflow covers **data preprocessing, exploratory data analysis (ED
 
 ---
 
-## 🎯 Project Objectives
+## 🎯 PROJECT OBJECTIVES
 
 The main objectives of this project are:
 
