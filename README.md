@@ -106,7 +106,7 @@ Different approaches can be used to determine an appropriate number of customer 
 * Cluster visualization
 * Business interpretability
 
-### 7. Segment Analysis
+### 7. SEGMENT ANALYSIS
 
 Each customer segment is analyzed to understand its defining characteristics.
 
