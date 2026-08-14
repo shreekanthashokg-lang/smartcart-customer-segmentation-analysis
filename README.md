@@ -27,7 +27,7 @@ The main objectives of this project are:
 
 ---
 
-## 🧠 Technologies & Tools Used
+## 🧠 Technologies & TOOLS USED
 
 ### Programming & Development
 
