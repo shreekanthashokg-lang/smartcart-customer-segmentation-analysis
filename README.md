@@ -57,7 +57,7 @@ The main objectives of this project are:
 
 The project follows a structured machine learning pipeline:
 
-### 1. Data Collection
+### 1. DATA COLLECTION
 
 The original customer dataset is stored inside the `data/raw/` directory.
 
