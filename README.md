@@ -61,7 +61,7 @@ The project follows a structured machine learning pipeline:
 
 The original customer dataset is stored inside the `data/raw/` directory.
 
-### 2. Data Preprocessing
+### 2. DATA PREPROCESSING
 
 The dataset is inspected and prepared by handling:
 
