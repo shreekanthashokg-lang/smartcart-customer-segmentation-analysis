@@ -45,7 +45,7 @@ The main objectives of this project are:
 * Matplotlib
 * Seaborn
 
-### Machine Learning
+### MACHINE LEARNING
 
 * Scikit-learn
 * Clustering / Unsupervised Learning
