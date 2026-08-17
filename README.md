@@ -53,7 +53,7 @@ The main objectives of this project are:
 
 ---
 
-## 🔍 Project Workflow
+## 🔍 PROJECT WORKFLOW 
 
 The project follows a structured machine learning pipeline:
 
