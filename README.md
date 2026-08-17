@@ -91,7 +91,7 @@ Relevant customer attributes are selected and transformed into suitable features
 
 The goal is to create a meaningful representation of each customer that can be used for segmentation.
 
-### 5. Customer Segmentation
+### 5. CUSTOMER SEGMENTATION
 
 Machine learning clustering techniques are applied to group customers with similar characteristics.
 
