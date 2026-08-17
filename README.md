@@ -251,6 +251,6 @@ If you find this project useful, consider ⭐ **starring the repository** and co
 
 ---
 
-## 📄 License
+## 📄 LICENSE 
 
 This project is created for **educational, learning, and portfolio purposes**.
