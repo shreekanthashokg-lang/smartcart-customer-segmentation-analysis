@@ -243,7 +243,7 @@ Possible future enhancements include:
 
 ---
 
-## ⭐ Project Highlights
+## ⭐ PROJECT HIGHLIGHTS
 
 > **SmartCART Customer Segmentation Analysis** demonstrates how machine learning and customer analytics can transform raw customer data into actionable business insights.
 
