@@ -37,8 +37,8 @@ The main objectives of this project are:
 
 ## DATA ANALYSIS
 
-* Pandas
-* NumPy
+*  PANDAS
+*  NUMPY
 
 ### Data Visualization
 
