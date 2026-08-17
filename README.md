@@ -139,7 +139,7 @@ Customer segmentation can support businesses in:
 
 ---
 
-## 📁 Project Structure
+## 📁 PROJECT STRUCTURE 
 
 ```text
 SmartCART-Customer-Segmentation/
