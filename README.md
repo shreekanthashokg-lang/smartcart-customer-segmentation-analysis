@@ -85,7 +85,7 @@ Customer data is explored to understand:
 
 Visualizations are created to make these patterns easier to understand.
 
-### 4. Feature Engineering
+### 4. FEATURE ENGINEERING
 
 Relevant customer attributes are selected and transformed into suitable features for machine learning.
 
