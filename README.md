@@ -235,7 +235,7 @@ Possible future enhancements include:
 
 **Shreekanth A Guttedar**
 
-🎓 MCA – AI/ML & Data Science
+🎓 MCA – AI/ML & DATA SCIENCE 
 
 🔗 **GitHub:** https://github.com/shreekanthashokg-lang
 
