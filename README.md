@@ -2,7 +2,7 @@
 
 ## 📌 PROJECT OVERVIEW 
 
-**SmartCART Customer Segmentation Analysis** is a data science and machine learning project designed to analyze customer purchasing behavior and divide customers into meaningful groups based on their characteristics and shopping patterns.
+**SmartCART Customer Segmentation Analysis** is a DATA SCIENCE and machine learning project designed to analyze customer purchasing behavior and divide customers into meaningful groups based on their characteristics and shopping patterns.
 
 THE PROJECT  USES **Python, data analysis, visualization, and unsupervised machine learning techniques** to identify distinct customer segments. These segments can help businesses understand their customers better, design targeted marketing campaigns, improve customer engagement, and make data-driven business decisions.
 
