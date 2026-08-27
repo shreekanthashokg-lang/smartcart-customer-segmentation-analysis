@@ -205,7 +205,7 @@ Open the notebook available inside the `notebooks/` directory and execute the ce
 
 ## 📈 Expected Outcome
 
-The final output of the project is a set of meaningful customer segments generated using machine learning.
+The FINAL output of the PROJECT is a set of meaningful customer segments generated using machine learning.
 
 The analysis provides insights into how different groups of customers behave and how businesses can use these insights to create more effective and personalized strategies.
 
