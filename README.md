@@ -6,7 +6,7 @@
 
 THE PROJECT  USES **Python, data analysis, visualization, and unsupervised machine learning techniques** to identify distinct customer segments. These segments can help businesses understand their customers better, design targeted marketing campaigns, improve customer engagement, and make data-driven business decisions.
 
-The complete workflow covers **data preprocessing, exploratory data analysis (EDA), feature engineering, customer segmentation, clustering, visualization, and interpretation of results**.
+The complete workflow covers **DATA preprocessing, exploratory data analysis (EDA), feature engineering, customer segmentation, clustering, visualization, and interpretation of results**.
 
 ---
 
