@@ -118,7 +118,7 @@ For example, segments may represent:
 * Low-engagement customers
 * Potential customers for targeted campaigns
 
-### 8. Business Insights
+### 8. BUSINESS INSIGHTS
 
 The final segmentation can help businesses develop more personalized strategies for different customer groups.
 
