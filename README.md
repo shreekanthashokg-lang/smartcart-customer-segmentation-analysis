@@ -164,7 +164,7 @@ SmartCART-Customer-Segmentation/
 
 ---
 
-## ⚙️ How to Run the Project
+## ⚙️ HOW TO RUN THE PROJECT 
 
 ### 1. CLONE THE REPOSITORY 
 
