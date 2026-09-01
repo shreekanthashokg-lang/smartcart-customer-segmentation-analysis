@@ -97,7 +97,7 @@ Machine learning clustering techniques are applied to group customers with simil
 
 The resulting clusters represent different types of customers based on their behavior and characteristics.
 
-### 6. Cluster Evaluation
+### 6. CLUSTER EVALUATION  
 
 Different approaches can be used to determine an appropriate number of customer segments, including:
 
