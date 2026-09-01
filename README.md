@@ -72,7 +72,7 @@ The dataset is inspected and prepared by handling:
 * Inconsistent values
 * Unnecessary columns
 
-### 3. Exploratory Data Analysis
+### 3. EXPLORATORY DATA ANALYSIS 
 
 Customer data is explored to understand:
 
