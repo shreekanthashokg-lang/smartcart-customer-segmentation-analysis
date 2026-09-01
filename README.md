@@ -166,7 +166,7 @@ SmartCART-Customer-Segmentation/
 
 ## ⚙️ How to Run the Project
 
-### 1. Clone the Repository
+### 1. CLONE THE REPOSITORY 
 
 ```bash
 git clone https://github.com/shreekanthashokg-lang/SmartCART-Customer-Segmentation.git
