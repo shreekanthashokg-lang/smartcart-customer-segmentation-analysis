@@ -203,7 +203,7 @@ Open the notebook available inside the `notebooks/` directory and execute the ce
 
 ---
 
-## 📈 Expected Outcome
+## 📈 EXPECTED OUTCOMES
 
 The FINAL output of the PROJECT is a set of meaningful customer segments generated using machine learning.
 
