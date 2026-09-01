@@ -233,7 +233,7 @@ Possible future enhancements include:
 
 ## 👨‍💻 AUTHOR
 
-**Shreekanth A Guttedar**
+**SHREEKANTH A GUTTEDAR**
 
 🎓 MCA – AI/ML & DATA SCIENCE 
 
