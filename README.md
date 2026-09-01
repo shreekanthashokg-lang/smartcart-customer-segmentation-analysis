@@ -215,7 +215,7 @@ This project demonstrates practical knowledge of:
 
 ---
 
-## 🚀 Future Improvements
+## 🚀 FUTURE IMPROVEMENTS
 
 Possible future enhancements include:
 
