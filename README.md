@@ -173,7 +173,7 @@ git clone https://github.com/shreekanthashokg-lang/SmartCART-Customer-Segmentati
 cd SmartCART-Customer-Segmentation
 ```
 
-### 2. Install Dependencies
+### 2. INSTALL DEPENDENCIES 
 
 Make sure Python 3.8 or higher is installed.
 
