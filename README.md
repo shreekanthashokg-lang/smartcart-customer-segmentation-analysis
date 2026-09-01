@@ -40,7 +40,7 @@ THE MAIN objectives of this project are:
 *  PANDAS
 *  NUMPY
 
-### Data Visualization
+### DATA VISUALIZATION
 
 * Matplotlib
 * Seaborn
