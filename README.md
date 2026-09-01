@@ -231,7 +231,7 @@ Possible future enhancements include:
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 AUTHOR
 
 **Shreekanth A Guttedar**
 
