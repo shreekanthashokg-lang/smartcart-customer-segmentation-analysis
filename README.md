@@ -181,7 +181,7 @@ Make sure Python 3.8 or higher is installed.
 pip install -r requirements.txt
 ```
 
-### 3. Launch Jupyter Notebook
+### 3. LAUNCH Jupyter Notebook
 
 ```bash
 jupyter notebook
