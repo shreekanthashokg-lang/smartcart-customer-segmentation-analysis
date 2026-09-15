@@ -43,7 +43,7 @@ THE MAIN OBJECTIVES OF THIS project are:
 ### DATA VISUALIZATION
 
 * Matplotlib
-* Seaborn
+* SEABORN
 
 ### MACHINE LEARNING
 
