@@ -175,7 +175,7 @@ cd SmartCART-Customer-Segmentation
 
 ### 2. INSTALL DEPENDENCIES 
 
-Make sure Python 3.8 or higher is installed.
+MAKE SURE Python 3.8 or higher is installed.
 
 ```bash
 pip install -r requirements.txt
