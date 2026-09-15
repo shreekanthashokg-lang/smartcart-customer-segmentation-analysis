@@ -211,7 +211,7 @@ The analysis provides insights into how different groups of customers behave and
 
 This project demonstrates practical knowledge of:
 
-**Python → Data Cleaning → EDA → Feature Engineering → Machine Learning → Clustering → Visualization → Business Insights**
+**Python → DATA CLEANING → EDA → Feature Engineering → Machine Learning → Clustering → Visualization → Business Insights**
 
 ---
 
