@@ -33,7 +33,7 @@ THE MAIN OBJECTIVES OF THIS project are:
 
 * **Python 3.8+**
 * Jupyter Notebook
-* Git & GitHub
+* GIT & GITHUB
 
 ## DATA ANALYSIS
 
