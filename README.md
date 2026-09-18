@@ -65,7 +65,7 @@ THE ORIGINAL CUSTOMER dataset is stored inside the `data/raw/` directory.
 
 The dataset is inspected and prepared by handling:
 
-* Missing values
+* MISSING VALUES
 * Duplicate records
 * Incorrect data types
 * Outliers where required
