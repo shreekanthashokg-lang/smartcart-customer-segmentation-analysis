@@ -101,7 +101,7 @@ The resulting clusters represent different types of customers based on their beh
 
 Different approaches can be used to determine an appropriate number of customer segments, including:
 
-* Elbow Method
+* ELBOW METHOD
 * Silhouette Score
 * Cluster visualization
 * Business interpretability
