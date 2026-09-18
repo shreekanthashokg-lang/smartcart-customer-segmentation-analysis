@@ -74,7 +74,7 @@ The dataset is inspected and prepared by handling:
 
 ### 3. EXPLORATORY DATA ANALYSIS 
 
-Customer data is explored to understand:
+CUSTOMER DATA IS explored to understand:
 
 * Customer demographics
 * Purchasing behavior
