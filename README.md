@@ -126,7 +126,7 @@ The final segmentation can help businesses develop more personalized strategies 
 
 ## 📊 KEY BUSINESS APPLICATIONS
 
-Customer segmentation can support businesses in:
+CUSTOMER SEGMENTATION can support businesses in:
 
 * 🎯 Targeted marketing campaigns
 * 💰 Customer value analysis
