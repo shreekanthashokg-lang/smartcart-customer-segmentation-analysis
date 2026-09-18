@@ -55,7 +55,7 @@ THE MAIN OBJECTIVES OF THIS project are:
 
 ## 🔍 PROJECT WORKFLOW 
 
-The project follows a structured machine learning pipeline:
+THE PROJECT FOLLOWS a structured machine learning pipeline:
 
 ### 1. DATA COLLECTION
 
