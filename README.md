@@ -29,7 +29,7 @@ THE MAIN OBJECTIVES OF THIS project are:
 
 ## 🧠 TECHNOLOGIES & TOOLS USED
 
-### PROGRAMMING & Development
+### PROGRAMMING & DEVELOPMENT
 
 * **Python 3.8+**
 * Jupyter Notebook
