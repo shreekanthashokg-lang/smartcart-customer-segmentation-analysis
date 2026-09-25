@@ -12,7 +12,7 @@ THE COMPLETE workflow covers **DATA PREPROCESSING, exploratory DATA ANALYSIS (ED
 
 ## 🎯 PROJECT OBJECTIVES
 
-THE MAIN OBJECTIVES OF THIS project are:
+THE MAIN OBJECTIVES OF THIS  PROJECT ARE :
 
 * Analyze customer purchasing and behavioral data.
 * Clean and preprocess the raw dataset.
