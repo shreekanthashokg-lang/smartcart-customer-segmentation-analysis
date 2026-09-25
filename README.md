@@ -47,7 +47,7 @@ THE MAIN OBJECTIVES OF THIS  PROJECT ARE :
 
 ### MACHINE LEARNING
 
-* Scikit-learn
+* MACHINE LEARNING : Scikit-learn
 * Clustering / UNSUPERVISED DATA LEARNING
 * Customer segmentation techniques
 
