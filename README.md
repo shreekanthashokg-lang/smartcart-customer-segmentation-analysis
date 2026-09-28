@@ -63,7 +63,7 @@ THE ORIGINAL CUSTOMER dataset is stored inside the `data/raw/` directory.
 
 ### 2. DATA PREPROCESSING
 
-The dataset is inspected and prepared by handling:
+THE DATASET IS INSEPECTED AND PREPARED BY HANDLING :
 
 * MISSING VALUES
 * Duplicate records
