@@ -191,7 +191,7 @@ Open the notebook available inside the `notebooks/` directory and execute the ce
 
 ---
 
-## 📦 MAIN Project Files
+## 📦 MAIN COMPLETE PROJECT FILES
 
 | Directory/File     | Description                             |
 | ------------------ | --------------------------------------- |
