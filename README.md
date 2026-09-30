@@ -217,7 +217,8 @@ This project demonstrates practical knowledge of:
 
 ## 🚀 FUTURE IMPROVEMENTS
 
-POSSIBLE FUTURE ENHANCEMENTS INCLUDE:
+POSSIBLE FUTURE 
+ENHANCEMENTS INCLUDE:
 
 * Integrating real-time customer data.
 * Building an interactive Streamlit dashboard.
