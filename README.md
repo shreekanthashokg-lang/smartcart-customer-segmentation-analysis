@@ -120,7 +120,7 @@ For example, segments may represent:
 
 ### 8. BUSINESS INSIGHTS
 
-The final segmentation can help businesses develop more personalized strategies for different customer groups.
+THE FINAL SEGMENTATION CAN HELP BUSINESSES DEVELOP MORE PERSONALIZED STRATERGIES DOR DIFFERENT CUSTOMER GROUPS. 
 
 ---
 
