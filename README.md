@@ -83,7 +83,7 @@ CUSTOMER DATA IS TO BETTER IUNDERSTAND :
 * Relationships between different features
 * Potential customer groups
 
-Visualizations are created to make these patterns easier to understand.
+VISUALIZATIONS ARE CREATED TO MAKE THESE PATTERNS EASIER TO UNDERSTAND.
 
 ### 4. FEATURE ENGINEERING
 
