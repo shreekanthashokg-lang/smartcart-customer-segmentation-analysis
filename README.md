@@ -108,7 +108,7 @@ Different approaches can be used to determine an appropriate number of customer 
 
 ### 7. SEGMENTATION WISE ANALYSIS
 
-Each customer segment is analyzed to understand its defining characteristics.
+EACH CUSTOMER SEGMENT IS ANALYZED to understand its defining characteristics.
 
 For example, segments may represent:
 
