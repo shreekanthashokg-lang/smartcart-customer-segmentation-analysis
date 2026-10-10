@@ -23,7 +23,7 @@ THE MAIN OBJECTIVES OF THIS  PROJECT ARE :
 * Group customers with similar behaviors into distinct clusters.
 * Visualize and interpret the identified customer segments.
 * Generate useful business insights from the segmentation results.
-* Demonstrate an end-to-end practical data science workflow.
+* DEMONSTRATE AN END-TO-END PRACTICAL DATA SCIENCE WORKFLOW.
 
 ---
 
