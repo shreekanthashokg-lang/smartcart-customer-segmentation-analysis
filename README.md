@@ -70,7 +70,7 @@ THE DATASET IS INSEPECTED AND PREPARED BY HANDLING :
 * Incorrect data types
 * Outliers where required
 * Inconsistent values
-* Unnecessary columns
+* UNNECESSARY COLUMNS 
 
 ### 3. EXPLORATORY DATA ANALYSIS 
 
