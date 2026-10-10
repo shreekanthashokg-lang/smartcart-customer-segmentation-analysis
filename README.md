@@ -14,7 +14,7 @@ THE COMPLETE **DATA PREPROCESSING, exploratory DATA ANALYSIS (EDA), feature engi
 
 THE MAIN OBJECTIVES OF THIS  PROJECT ARE :
 
-* Analyze customer purchasing and behavioral data.
+* ANALYZE CUSTOMER PURCHASING AND BEHAVIRAL DATA.
 * Clean and preprocess the raw dataset.
 * Identify important customer characteristics and patterns.
 * Perform exploratory data analysis using Python.
