@@ -89,7 +89,7 @@ VISUALIZATIONS ARE CREATED TO MAKE THESE PATTERNS EASIER TO UNDERSTAND.
 
 Relevant customer attributes are selected and transformed into suitable features for machine learning.
 
-The goal is to create a meaningful representation of each customer that can be used for segmentation.
+THE GOAL IS TO CREATE A MEANINGFUL REPRESENTATION OF EACH CUSTOMER THAT CAN BE USED FOR SEGMENTATION.
 
 ### 5. CUSTOMER SEGMENTATION
 
