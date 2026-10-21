@@ -87,7 +87,7 @@ VISUALIZATIONS ARE CREATED TO MAKE THESE PATTERNS EASIER TO UNDERSTAND.
 
 ### 4. FEATURE ENGINEERING
 
-Relevant customer attributes are selected and transformed into suitable features for machine learning.
+Relevant customer attributes are selected and transformed into suitable features for MACHINE LEARNING.
 
 THE GOAL IS TO CREATE A MEANINGFUL REPRESENTATION OF EACH CUSTOMER THAT CAN BE USED FOR SEGMENTATION.
 
