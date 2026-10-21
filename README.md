@@ -95,7 +95,7 @@ THE GOAL IS TO CREATE A MEANINGFUL REPRESENTATION OF EACH CUSTOMER THAT CAN BE U
 
 Machine learning clustering techniques are applied to group customers with similar characteristics.
 
-The resulting clusters represent different types of customers based on their behavior and characteristics.
+THE RESULTING CLUSTERS REPRESENT DIFFERENT TYPES OF CUSTOMER BASED ON THEIR BEHAVIOUR AND CHARACTERISTICS.
 
 ### 6. CLUSTER EVALUATION  
 
