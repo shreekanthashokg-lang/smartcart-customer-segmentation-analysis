@@ -81,7 +81,7 @@ CUSTOMER DATA IS TO BETTER IUNDERSTAND :
 * Spending patterns
 * Distribution of important variables
 * Relationships between different features
-* Potential customer groups
+* POTENTIONAL CUSTOMER GROUPS
 
 VISUALIZATIONS ARE CREATED TO MAKE THESE PATTERNS EASIER TO UNDERSTAND.
 
