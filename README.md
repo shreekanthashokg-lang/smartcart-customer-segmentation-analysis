@@ -247,7 +247,7 @@ ENHANCEMENTS INCLUDE:
 
 ## ⭐ PROJECT HIGHLIGHTS
 
-> **SmartCART Customer Segmentation Analysis** demonstrates how machine learning and customer analytics can transform raw customer data into actionable business insights.
+> **SmartCART Customer Segmentation Analysis** DEMONSTRATES HOW MACHINE LEARNING AND CUSTOMER ANALYTICS CAN TRANSFORM raw customer data into actionable business insights.
 
 If you find this project useful, consider ⭐ **starring the repository** and connecting with me on GitHub and LinkedIn.
 
