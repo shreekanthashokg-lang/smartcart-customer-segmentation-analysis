@@ -188,7 +188,7 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 
-Open the notebook available inside the `notebooks/` DIRECTORY AND EXECUTE THE CELLS SEQUENTIALLY.
+OPEN THE NOTEBOOK AVAILABLE INSIDE THE  `notebooks/` DIRECTORY AND EXECUTE THE CELLS SEQUENTIALLY.
 
 ---
 
