@@ -76,10 +76,10 @@ THE DATASET IS INSEPECTED AND PREPARED BY HANDLING :
 
 CUSTOMER DATA IS TO BETTER IUNDERSTAND :
 
-* Customer demographics
-* Purchasing behavior
-* Spending patterns
-* Distribution of important variables
+* CUSTOMER DEMOGRAPHICS 
+* PURCHASING BEHAVIOR 
+* SPENDING PATTERNS 
+* DISTRIBUTION OF IMPORTANT VARIABLES 
 * Relationships between different features
 * POTENTIONAL CUSTOMER GROUPS
 
