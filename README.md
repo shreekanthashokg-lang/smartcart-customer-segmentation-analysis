@@ -129,8 +129,8 @@ THE FINAL SEGMENTATION CAN HELP BUSINESSES DEVELOP MORE PERSONALIZED STRATERGIES
 
 CUSTOMER SEGMENTATION CAN SUPPORT BUSINESS IN :
 
-* 🎯 Targeted marketing campaigns
-* 💰 Customer value analysis
+* 🎯 TARGETED MARKETING CAMPAIGNS 
+* 💰 CUSTOMER VALUE ANALYSIS 
 * 🛍️ Personalized product recommendations
 * 📈 Increasing customer retention
 * 🤝 Improving customer engagement
