@@ -114,9 +114,9 @@ EACH CUSTOMER SEGMENT IS ANALYZED to understand its defining characteristics.
 For example, segments may represent:
 
 * HIGH-VALUE CUSTOMERS
-* Regular customers
-* Budget-conscious customers
-* Low-engagement customers
+* REGULAR CUSTOMERS 
+* Budget-conscious CUSTOMERS 
+* LOW-ENGAGEMENT customers
 * Potential customers for targeted campaigns
 
 ### 8. BUSINESS INSIGHTS
