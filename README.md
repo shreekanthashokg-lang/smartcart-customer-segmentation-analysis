@@ -6,7 +6,7 @@
 
 THE PROJECT  USES **PYTHON, DATA ANALYSIS, VISUALIZATION, AND UNSUPERVISED MACHINE LEARNING TECHNIQUES** to identify distinct customer segments. These segments can help businesses understand their customers better, design targeted marketing campaigns, improve customer engagement, and make data-driven business decisions.
 
-THE COMPLETE **DATA PREPROCESSING, EXPLORATORY DATA ANALYSIS (EDA), FEATURE ENGINEERING, CUSTOMER Segmentation, Clustering, Visualization, and interpretation of results**.
+THE COMPLETE **DATA PREPROCESSING, EXPLORATORY DATA ANALYSIS (EDA), FEATURE ENGINEERING, CUSTOMER Segmentation, CLUSTERING, VISUALIZATION, AND INTERPRETATION OF RESULTS**.
 
 ---
 
