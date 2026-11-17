@@ -16,8 +16,8 @@ THE MAIN OBJECTIVES OF THIS  PROJECT ARE :
 
 * ANALYZE CUSTOMER PURCHASING AND BEHAVIRAL DATA.
 * Clean and preprocess the raw dataset.
-* Identify important customer characteristics and patterns.
-* Perform exploratory data analysis using Python.
+* IDENTIFY IMPORTANT CUSTOMER CHARACTERISTICS and PATTERNS.
+* PERFORM EXPLORATORY DATA ANALYSIS USING PYTHON.
 * Create meaningful customer-related features.
 * Apply machine learning techniques for customer segmentation.
 * Group customers with similar behaviors into distinct clusters.
